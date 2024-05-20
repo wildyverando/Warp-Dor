@@ -228,7 +228,7 @@ func main() {
 	fmt.Println("---------------------------------------------------")
 	fmt.Println(" Program  : WarpDor | Version: 1.0.0")
 	fmt.Println(" Author   : Wildy Sheverando")
-	fmt.Println(" Email    : hai@wildy.id")
+	fmt.Println(" Email    : wildy@wildyverando.com")
 	fmt.Println(" License  : MIT License")
 	fmt.Println("---------------------------------------------------")
 	fmt.Println("")
